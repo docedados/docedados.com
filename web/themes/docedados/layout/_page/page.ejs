@@ -1,0 +1,6 @@
+<%# toc %>
+<% if (theme.toc.post_enable && toc(post.content).length !== 0) { %>
+    <%- partial('_partial/post/toc') %>
+<% } %>
+
+<%- partial('_partial/page') %>

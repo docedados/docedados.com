@@ -1,0 +1,45 @@
+{
+  "name": "docedados.com",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "npx hexo generate",
+    "build:pro": "npx hexo generate --pro",
+    "clean": "npx hexo clean",
+    "deploy": "npx hexo deploy",
+    "lint": "npx eslint . --ext js,json,md",
+    "lint:fix": "npx eslint . --ext js,json,md --fix",
+    "lint:quiet": "npx eslint . --ext js,json,md --quiet",
+    "server": "npx hexo server"
+  },
+  "dependencies": {
+    "hexo": "^7.3.0",
+    "hexo-fontawesome": "^2.4.0",
+    "hexo-generator-archive": "^2.0.0",
+    "hexo-generator-category": "^2.0.0",
+    "hexo-generator-index": "^4.0.0",
+    "hexo-generator-tag": "^2.0.0",
+    "hexo-renderer-ejs": "^2.0.0",
+    "hexo-renderer-marked": "^7.0.1",
+    "hexo-renderer-stylus": "^3.0.1",
+    "hexo-server": "^3.0.0",
+    "hexo-theme-landscape": "^1.1.0"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.26.10",
+    "@eslint/js": "^9.22.0",
+    "eslint": "^9.22.0",
+    "eslint-config-prettier": "^10.1.1",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-jsonc": "^2.19.1",
+    "eslint-plugin-markdownlint": "^0.6.0",
+    "eslint-plugin-prettier": "^5.2.3",
+    "globals": "^16.0.0",
+    "jsonc-eslint-parser": "^2.4.0",
+    "prettier": "^3.5.3"
+  },
+  "hexo": {
+    "version": "7.3.0"
+  }
+}
