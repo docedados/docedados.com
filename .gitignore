@@ -10,3 +10,4 @@ web/script*.js
 
 web/themes/*
 !web/themes/docedados
+web/themes/*/node_modules/
