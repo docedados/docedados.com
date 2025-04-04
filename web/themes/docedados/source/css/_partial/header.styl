@@ -37,19 +37,21 @@
 
   .header-logo
     position relative
-    height 120px
-    width 120px
+    height $header-logo-size
+    width $header-logo-size
     z-index 10
-    transition all 1s ease-in-out
+    transition height 1s ease-in-out,
+               width 1s ease-in-out,
+               z-index 1s ease-in-out
 
     a
       display inline-block
-      height 120px
-      width 120px
+      height $header-logo-size
+      width $header-logo-size
 
     img
-      height 120px
-      width 120px
+      height $header-logo-size
+      width $header-logo-size
       margin 0 auto
       padding 3px
       border solid 5px $emphasis-color
@@ -58,7 +60,8 @@
   .header-title
     position relative  
     font-family $title-font-family
-    font-size 30pt
+    font-size 45pt
+    transition font-size 1s ease-in-out
 
   .header-nav
     margin-left auto
@@ -75,9 +78,9 @@
         font-family $header-font-family
 
         a
-          margin 0 0 0 1rem 
+          margin 0 0 0 0.5rem 
           text-decoration none
-          transition all 0.3s ease-in-out
+          transition all 0.2s ease-in-out
 
           &:hover
             color $emphasis-color
@@ -85,7 +88,7 @@
             transform scale(1.1)
   
   .header-nav-separator
-    margin 0 0 0 1rem
+    margin 0 0 0 0.5rem
 
 html:not([data-scroll='0'])
   .header
@@ -120,3 +123,6 @@ html:not([data-scroll='0'])
       margin 0 auto
       padding 2px
       border-radius 20%
+
+  .header-title
+    font-size 30pt
