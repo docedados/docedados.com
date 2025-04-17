@@ -1,13 +1,15 @@
 <header class="header">
   <div class="header-content">
-    <div class="header-logo">
-      <a href="/" rel="home">
-        <img class="rotate" src="/images/logo.png"
-          alt="<%- theme.header.title %>"></a>
-    </div>
-    <div class="header-title">
-      <a href="/" rel="home">
-        <span><%- theme.header.title %></span></a>
+    <div class="header-top">
+      <div class="header-logo">
+        <a href="/" rel="home">
+          <img class="rotate" src="/images/logo.png"
+            alt="<%- theme.header.title %>"></a>
+      </div>
+      <div class="header-title">
+        <a href="/" rel="home">
+          <span><%- theme.header.title %></span></a>
+      </div>
     </div>
     <nav class="header-nav">
       <ul class="nav">
@@ -22,5 +24,12 @@
         <% } %>
       </ul>
     </nav>
+    <div class="hamburger-wrapper">
+      <div class="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
   </div>
 </header>
