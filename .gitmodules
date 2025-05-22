@@ -1,0 +1,3 @@
+[submodule "web/themes/docedados"]
+	path = web/themes/docedados
+	url = git@github.com:12dados/hexo-docedados-theme.git

@@ -8,6 +8,7 @@ web/node_modules/
 web/.deploy*/
 web/script*.js
 
+# Allow theme submodules but ignore other themes
 web/themes/*
 !web/themes/docedados
-web/themes/*/node_modules/
+!web/themes/docedados/**/*
