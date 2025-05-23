@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: docedados.com
 subtitle: ''
-description: ''
+description: 'Juegos y cosas chachis'
 keywords:
-author: John Doe
-language: en
+author: docedados
+language: es
 timezone: ''
 
 # URL
@@ -31,7 +31,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year/:month/:day/:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link:
@@ -40,29 +40,60 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
-
-marked:
-  postAsset: true
-  figcaption: true
-  external_link:
-    enable: false
-    exclude: []
-    nofollow: false
-
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
 highlight:
+  enable: true
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
+  enable: false
   preprocess: true
   line_number: true
   tab_replace: ''
+
+post_asset_folder: true
+
+# hexo-renderer-marked
+# marked:
+#   postAsset: true
+#   figcaption: true
+#   external_link:
+#     enable: false
+#     exclude: []
+#     nofollow: false
+markdown:
+  preset: 'default'
+  render:
+    html: true
+    xhtmlOut: false
+    langPrefix: 'language-'
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
+  enable_rules:
+  disable_rules:
+  plugins:
+    - markdown-it-attrs
+  anchors:
+    level: 2
+    collisionSuffix: ''
+    permalink: false
+    permalinkClass: 'header-anchor'
+    permalinkSide: 'left'
+    permalinkSymbol: '¶'
+    case: 0
+    separator: '-'
+  images:
+    lazyload: false
+    prepend_root: true
+    post_asset: true
+  inline: false  # https://markdown-it.github.io/markdown-it/#MarkdownIt.renderInline
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
