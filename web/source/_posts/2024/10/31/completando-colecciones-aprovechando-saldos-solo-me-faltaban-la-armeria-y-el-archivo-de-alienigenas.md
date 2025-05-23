@@ -1,5 +1,5 @@
 ---
-title: "Completando colecciones aprovechando saldos. Solo me faltaban La armería y El archivo de alienígenas (ese me falta todavía)"
+title: "Completando colecciones aprovechando saldos. Solo me faltaban La armería y El archivo de alienígenas"
 date: 2024-10-31 14:45:49
 media:
   - 465144333_1062485879221106_7916010898700364396_n_18047793722007482.jpg
