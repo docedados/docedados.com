@@ -8,10 +8,10 @@
     "build:pro": "npx hexo generate --pro",
     "clean": "npx hexo clean",
     "deploy": "npx hexo deploy",
+    "server": "npx hexo server",
     "lint": "npx eslint . --ext js,json,md",
-    "lint:fix": "npx eslint . --ext js,json,md --fix",
     "lint:quiet": "npx eslint . --ext js,json,md --quiet",
-    "server": "npx hexo server"
+    "lint:fix": "npx eslint . --ext js,json,md --fix"
   },
   "dependencies": {
     "hexo": "^7.3.0",
