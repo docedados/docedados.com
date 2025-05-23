@@ -1,0 +1,27 @@
+---
+title: "Set de dados y miscelánea de The Witchlight Carnival"
+date: 2022-02-09 17:02:21
+media:
+  - 273743593_699998611160079_8092680894420784248_n_18211324213186662.jpg
+  - 273528654_514915846629722_3741309193886774974_n_18186851791094879.jpg
+  - 273493718_1037722573446320_4210325114755974520_n_17949682537678669.jpg
+tags:
+  - witchlightcarnival
+  - witchlightdnd
+  - witchlight
+  - rol
+  - ttrpg
+  - rpgs
+  - rpg
+  - dungeonsanddragons
+  - dnd
+  - 5e
+  - 5ednd
+template: instagram
+---
+
+{% gallery "273743593_699998611160079_8092680894420784248_n_18211324213186662.jpg" "273528654_514915846629722_3741309193886774974_n_18186851791094879.jpg" "273493718_1037722573446320_4210325114755974520_n_17949682537678669.jpg" %}
+
+Set de dados y miscelánea de The Witchlight Carnival. Alguien tiene un problema con los dados... y no soy yo.
+
+

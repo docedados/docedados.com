@@ -1,0 +1,13 @@
+---
+title: "Con las fechas de comienzo de curso"
+date: 2021-09-16 16:44:32
+media:
+  - 242050451_1334884513596419_4883180831755349981_n_17923609474865950.jpg
+  - 242056134_4583140791738163_7684038735487543966_n_17933151775627534.jpg
+tags:
+template: instagram
+---
+
+{% gallery "242050451_1334884513596419_4883180831755349981_n_17923609474865950.jpg" "242056134_4583140791738163_7684038735487543966_n_17933151775627534.jpg" %}
+
+Con las fechas de comienzo de curso, empiezan las colecciones de quiosco. Me he dejado tentar con el primer libro de Crónicas de Excalibur.
