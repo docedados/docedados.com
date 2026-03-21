@@ -1,6 +1,7 @@
 ---
 title: "Pues allá vamos: Dungeons and Dragons Adventurer"
 date: 2024-04-25 18:01:50
+author: neverbot
 media:
   - 440725146_285259254638589_8130418895721325142_n_18247784263223275.jpg
 tags:

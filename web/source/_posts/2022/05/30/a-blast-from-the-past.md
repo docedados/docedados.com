@@ -1,6 +1,7 @@
 ---
 title: "A blast from the past"
 date: 2022-05-30 16:21:09
+author: neverbot
 media:
   - 284858361_132496172727834_1465289238406279690_n_17924697977372750.jpg
 tags:

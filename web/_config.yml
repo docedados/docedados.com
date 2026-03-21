@@ -9,6 +9,12 @@ description: 'Juegos y cosas chachis'
 keywords:
 author: docedados
 language: es
+
+authors:
+  neverbot:
+    url: https://neverbot.com
+  docedados:
+    url: https://docedados.com
 timezone: ''
 
 # URL

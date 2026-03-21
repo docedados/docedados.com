@@ -1,6 +1,7 @@
 ---
 title: "Más dados para el trono de dados. Esto es un no parar"
 date: 2022-11-07 17:35:20
+author: neverbot
 media:
   - 314513397_214914370962136_8291628303767620318_n_17867667863767805.jpg
 tags:

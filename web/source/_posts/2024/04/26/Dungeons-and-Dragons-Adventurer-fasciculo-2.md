@@ -1,6 +1,7 @@
 ---
 title: "Dungeons & Dragons Adventurer fascículo 2"
 date: 2024-04-26 14:41:13
+author: neverbot
 media:
   - 440727743_962861032050029_8928210167241163898_n_18061331572554899.jpg
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Me he metido en un nuevo lío"
 date: 2021-10-05 09:48:01
+author: neverbot
 media:
   - 244376999_950205705841692_7394571066147330233_n_18091624117286918.jpg
 tags:

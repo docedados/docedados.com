@@ -1,6 +1,7 @@
 ---
 title: "Se me había olvidado que había dejado la foto hecha"
 date: 2024-06-07 20:24:14
+author: neverbot
 media:
   - 447883176_998418961333168_4086353897326352693_n_18003776555333322.jpg
 tags:

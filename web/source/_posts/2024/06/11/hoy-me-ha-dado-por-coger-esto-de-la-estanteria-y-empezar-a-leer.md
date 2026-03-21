@@ -1,6 +1,7 @@
 ---
 title: "Hoy me ha dado por coger esto de la estantería y empezar a leer"
 date: 2024-06-11 21:16:19
+author: neverbot
 media:
   - 448211514_986225583166436_2100904665036420689_n_17848471125205196.jpg
 tags:

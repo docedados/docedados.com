@@ -1,6 +1,7 @@
 ---
 title: "Cartas para Stargrave. Que no es que sean obligatorias para jugar"
 date: 2024-08-02 14:32:55
+author: neverbot
 media:
   - 453761251_423957403305514_4314572708449485423_n_18039097213972341.jpg
 tags:

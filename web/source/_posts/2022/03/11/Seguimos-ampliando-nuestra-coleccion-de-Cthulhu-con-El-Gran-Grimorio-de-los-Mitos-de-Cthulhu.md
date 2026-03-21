@@ -1,6 +1,7 @@
 ---
 title: "Seguimos ampliando nuestra colección de Cthulhu con El Gran Grimorio de los Mitos de Cthulhu"
 date: 2022-03-11 11:18:29
+author: neverbot
 media:
   - 275633495_637357100697274_6649085262209789180_n_17913399995279865.jpg
   - 275654969_1516101888792587_3129077119854967162_n_17930898985980571.jpg

@@ -1,6 +1,7 @@
 ---
 title: "Hay cosas que me superan"
 date: 2022-02-04 10:10:17
+author: neverbot
 media:
   - 273156240_654134849368173_2761485327909972859_n_17854423826703428.jpg
 tags:

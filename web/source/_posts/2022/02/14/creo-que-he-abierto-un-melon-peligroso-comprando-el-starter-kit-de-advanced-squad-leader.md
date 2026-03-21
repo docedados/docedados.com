@@ -1,6 +1,7 @@
 ---
 title: "Creo que he abierto un melón peligroso comprando el starter kit de Advanced Squad Leader"
 date: 2022-02-14 13:38:47
+author: neverbot
 media:
   - 273944692_492664852531102_4181634102617136530_n_17865523214670625.jpg
   - 273866476_487978539614719_6261822191419669998_n_17901423680403597.jpg

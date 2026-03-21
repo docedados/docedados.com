@@ -1,6 +1,7 @@
 ---
 title: "Si decíamos que estábamos completando ediciones... el último tomo de El anillo único"
 date: 2022-05-26 10:39:09
+author: neverbot
 media:
   - 283984142_5669216336425843_6514498834129300802_n_17937082241012150.jpg
   - 283744064_170608995333085_590281470736179082_n_17882221931663422.jpg

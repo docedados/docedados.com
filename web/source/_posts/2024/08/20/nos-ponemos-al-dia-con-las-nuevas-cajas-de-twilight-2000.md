@@ -1,6 +1,7 @@
 ---
 title: "Nos ponemos al día con las nuevas cajas de Twilight 2000"
 date: 2024-08-20 14:16:41
+author: neverbot
 media:
   - 456466202_925991456223890_5354215379243876664_n_18068527330525177.jpg
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Dungeons & Dragons Tarot Deck, la baraja del Tarot de D&D, 78 naipes para mantenerse entretenido un rato"
 date: 2022-05-27 08:29:19
+author: neverbot
 media:
   - 283917817_168366462303237_8916842206403027277_n_17928630773160989.jpg
   - 283951693_716563042723970_4442008258493876478_n_17928558191160285.jpg

@@ -1,6 +1,7 @@
 ---
 title: "Nuevas aventuras de The Merry Mushmen"
 date: 2026-03-21 12:00:00
+author: neverbot
 media:
   - 655106873_18429357700140363_7512541889459662459_n.jpg
 tags:

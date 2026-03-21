@@ -1,6 +1,7 @@
 ---
 title: "Nuevo set de dados con brilli-brilli"
 date: 2022-11-03 16:44:46
+author: neverbot
 media:
   - 313906705_1206662806730139_834101120171049580_n_17965386634967290.jpg
 tags:
