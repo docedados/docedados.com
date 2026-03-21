@@ -1,8 +1,8 @@
 # general build configuration
 [build]
-base = "web/"
-publish = "public/"
-command = "npm run build:pro"
+  base = "web/"
+  publish = "web/public"
+  command = "npm run build:pro"
 
 # redirect from www.docedados.com
 [[redirects]]
