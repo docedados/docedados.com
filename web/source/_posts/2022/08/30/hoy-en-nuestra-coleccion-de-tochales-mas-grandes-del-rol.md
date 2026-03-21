@@ -24,5 +24,3 @@ En nuestra colección de “Tochales más grandes del rol”, damos la bienvenid
 También nos hemos hecho con uno de los saldos de [@nosolorol](https://instagram.com/nosolorol) y la tercera aventura de Dungeons & Cthulhu de [@ediciones_t_t](https://instagram.com/ediciones_t_t). 
 
 Magnífico servicio, como siempre, de [@tesorosdelamarca](https://instagram.com/tesorosdelamarca), que nos provee de vicio y subcultura.
-
-[#rol](/tags/rol) [#rpg](/tags/rpg) [#tabletop](/tags/tabletop) [#tabletoprpg](/tags/tabletoprpg) [#thestarshipwarden](/tags/thestarshipwarden) [@trolllordgames](https://instagram.com/trolllordgames) [#trolllordgames](/tags/trolllordgames) [@conbarba](https://instagram.com/conbarba) 
