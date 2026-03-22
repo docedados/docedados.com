@@ -4,29 +4,29 @@ Board games blog. Spanish language. Instagram-imported posts.
 
 ## Color Scheme
 
-| Role                   | Value      |
-| ---------------------- | ---------- |
-| Background             | `#fffbf8`  |
-| Font (body)            | `#363636`  |
-| Font secondary (meta)  | `#767676`  |
-| Emphasis / link hover  | `#f32370`  |
-| Post link              | `#ff6699`  |
-| Post link hover        | `#ff276f`  |
-| Border                 | `#e8e8e8`  |
-| Code font              | `#c7254e`  |
-| Code background        | `#f8f5ec`  |
-| Table header bg        | `#fbbdd4`  |
+| Role                  | Value     |
+| --------------------- | --------- |
+| Background            | `#fffbf8` |
+| Font (body)           | `#363636` |
+| Font secondary (meta) | `#767676` |
+| Emphasis / link hover | `#f32370` |
+| Post link             | `#ff6699` |
+| Post link hover       | `#ff276f` |
+| Border                | `#e8e8e8` |
+| Code font             | `#c7254e` |
+| Code background       | `#f8f5ec` |
+| Table header bg       | `#fbbdd4` |
 
 No dark mode. Background is a warm off-white (`#fffbf8`), not pure white.
 
 ## Typography
 
-| Role     | Font                         |
-| -------- | ---------------------------- |
-| Body     | eb-garamond (serif)          |
-| Headings | montserrat (sans-serif)      |
-| Title    | pirata-one (display)         |
-| Alt/Nav  | noto-sans, source-sans-pro   |
+| Role     | Font                       |
+| -------- | -------------------------- |
+| Body     | eb-garamond (serif)        |
+| Headings | montserrat (sans-serif)    |
+| Title    | pirata-one (display)       |
+| Alt/Nav  | noto-sans, source-sans-pro |
 
 The header title uses `pirata-one` for the site name. Post meta and navigation use `montserrat`. Body content uses `eb-garamond` (serif).
 
@@ -86,7 +86,7 @@ All posts have `author: neverbot` in frontmatter.
 
 ## Instagram Import
 
-Most posts are imported from Instagram using the `hexo-from-ig` skill. Post structure:
+Posts are imported from Instagram using the `hexo-from-ig` skill. Post structure:
 - `template: instagram` in frontmatter
 - `media` array listing image filenames
 - `{% gallery %}` tag for images
