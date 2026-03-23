@@ -145,6 +145,16 @@ ignore:
 # theme: landscape
 theme: docedados
 
+# hexo-generator-feed config
+feed:
+  enable: true
+  type: ['atom', 'rss2']
+  path: atom.xml/rss2.xml
+  limit: 20
+  content: true
+  order_by: -date
+  autodiscovery: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
