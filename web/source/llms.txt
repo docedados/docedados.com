@@ -1,0 +1,11 @@
+# docedados.com
+
+> Blog sobre juegos de mesa, rol y cartas en español.
+
+docedados.com es un blog en español dedicado a juegos de mesa, juegos de rol y juegos de cartas. Activo desde 2016.
+
+## Secciones
+
+- [Archivo](https://docedados.com/archives/): Archivo completo de entradas por fecha
+- [RSS](https://docedados.com/atom.xml): Feed Atom/RSS
+- [Sitemap](https://docedados.com/sitemap.xml): Mapa del sitio XML
