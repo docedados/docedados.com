@@ -155,6 +155,15 @@ feed:
   order_by: -date
   autodiscovery: true
 
+# hexo-generator-sitemap config
+sitemap:
+  path:
+    - sitemap.xml
+    - sitemap.txt
+  rel: true
+  tags: false
+  categories: false
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
